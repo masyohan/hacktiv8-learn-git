@@ -1,2 +1,3 @@
-# hacktiv8-learn-git
-learn git with hacktiv8
+# Learn Git With Hacktiv8
+Name : **Yohan Putra Nugraha**
+My motivation is to **get motivated** on my journey with hacktiv8.
